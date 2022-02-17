@@ -1,15 +1,11 @@
-## HI THERE BUDDT :love_you_gesture:
-### TITULO PEQUEÑO
-**BOLD**
-*ITALIC*
-~~STRIKETROUGH~~
-***BOLD AND ITALIC***
-> TEXT THAT IS A QUOTE
-THERE IS A `QUOTED TEXT` IN THIS TEXT
-THE NEXT TEXT IS QUOTED:
-```
-CASE 1
-CASE 2
-CASE 3
-```
-THIS SITE WAS BUILT USING [GITHUB PAGES](https://pages.github.com/).
+## 🤘 HI THERE BUDDY!
+### I'm a web applications development student in Canary Islands, Spain. 🇮🇨
+#### PRESENT.-
+- 🌱 Learning all about: `.html`, `.css`, `.java`, `.sql`.
+- 📬 Contact me at: [twitter.com/GuillermoSHdez](twitter.com/GuillermoSHdez).
+- 🛠️ Currently dealing with some `.java` projects.
+#### FUN FACTS.-
+- I'm a huge fan of **STAR WARS** may the 🦾 force be with you!.
+- My **HOBBIES** are 🛩️ **modelism** and practising 🏐 **volleyball**.
+- 🎧 I listen to all kind of music in english, not spanish.
+- I also play the 🎸 guitar and bass.
