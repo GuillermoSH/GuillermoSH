@@ -1,3 +1,7 @@
+<p align-items="center">
+  <img src="https://github.com/GuillermoSH/1oDAW/blob/main/Imagenes/293163-ultrawide-abstract.jpg" title="Imagen Fondo Perfil" alt="Imagen Fondo Perfil">
+</p>
+
 ## 🤘 HI THERE BUDDY!
 ### I'm a web applications development student in Canary Islands, Spain. 🇮🇨
 #### PRESENT.-
