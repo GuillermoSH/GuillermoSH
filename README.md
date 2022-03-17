@@ -14,6 +14,6 @@
 - 🎧 I listen to all kind of music in english, not spanish.
 - I also play the 🎸 guitar and bass.
 
-<p align-items="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuillermoSH&show_icons=true&theme=react" title="Stats GuillermoSH" alt="Stats img from GuillermoSH">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=GuillermoSH&show_icons=true&theme=react">
 </p>
