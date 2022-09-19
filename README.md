@@ -5,9 +5,9 @@
 ## 🤘 HI THERE BUDDY!
 ### I'm a web applications development student in Canary Islands, Spain.
 #### PRESENT.-
-- 🌱 Learning all about: `.html`, `.css`, `.java`, `.sql`.
+- 🌱 Learning all about: `.html`, `.css`, `.java`, `.sql`, `.json`, `.php` and `.js`.
 - 📬 Contact me at: [twitter.com/GuillermoSHdez](twitter.com/GuillermoSHdez).
-- 🛠️ Currently dealing with some `.java` projects.
+- 🛠️ Currently dealing with some `.php` projects.
 #### FUN FACTS.-
 - I'm a huge fan of **STAR WARS** may the 🦾 force be with you!.
 - My **HOBBIES** are 🛩️ **modelism** and practising 🏐 **volleyball**.
