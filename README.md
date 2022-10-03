@@ -60,6 +60,9 @@
 </h3>
 
 <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoSH&theme=codeSTACKr">
+</div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=GuillermoSH&show_icons=true&theme=codeSTACKr">
 </div>
 
