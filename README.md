@@ -34,8 +34,8 @@
 - :rocket: I'm a web development student and will contribute to frontend and backend projects.
 - 🌱 Learning all about web pages development.
 - :mailbox: How to reach me:
-  - @GuillermoSHdez
-  - siciliahernandezguillermo@gmail.com
+  - [Twitter](https://twitter.com/GuillermoSHdez)
+  - [Email](siciliahernandezguillermo@gmail.com)
 
 ---
 
