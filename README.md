@@ -35,7 +35,7 @@
 - 🌱 Learning all about web pages development.
 - :mailbox: How to reach me:
   - [Twitter](https://twitter.com/GuillermoSHdez)
-  - [Email](siciliahernandezguillermo@gmail.com)
+  - siciliahernandezguillermo@gmail.com
 
 ---
 
