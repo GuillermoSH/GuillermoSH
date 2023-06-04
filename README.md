@@ -31,7 +31,7 @@
   About me:
 </h3>
 
-- :rocket: I'm a web development student and will contribute to frontend and backend projects.
+- :rocket: I'm a junior full stack web developer and will contribute to frontend and backend projects.
 - 🌱 Learning all about web pages development.
 - :mailbox: How to reach me:
   - [Twitter](https://twitter.com/GuillermoSHdez)
